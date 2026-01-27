@@ -1,0 +1,119 @@
+{
+  "LanguageDetection": {
+    "title": "语言建议",
+    "description": "我们检测到您的浏览器语言与当前网站语言不同。您可以随时切换语言。",
+    "countdown": "{countdown} 秒后关闭",
+    "switchTo": "切换到"
+  },
+  "Header": {
+    "links": [
+      {
+        "name": "博客",
+        "href": "/blog"
+      },
+      {
+        "name": "关于",
+        "href": "/about"
+      }
+    ]
+  },
+  "Footer": {
+    "Copyright": "版权所有 © {year} {name} 保留所有权利。",
+    "PrivacyPolicy": "隐私政策",
+    "TermsOfService": "服务条款",
+    "Links": {
+      "groups": [
+        {
+          "title": "语言",
+          "links": [
+            {
+              "href": "/en",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Instant iPhone Scanner",
+    "tagLine": "免费在线文档扫描仪",
+    "description": "瞬间将您的 iPhone 变成文档扫描仪。100% 免费。100% 隐私安全。",
+    "Hero": {
+      "title_1": "扫描文档。",
+      "title_2": "保存为 PDF。",
+      "subtitle": "iPhone 上最快的纸质文档数字化方式。无需下载 App，无需注册，100% 免费。",
+      "btn_photo": "拍照扫描",
+      "btn_gallery": "从相册上传",
+      "btn_download": "下载 PDF",
+      "generating": "正在生成 PDF...",
+      "preview": "预览"
+    },
+    "Features": {
+      "title": "为什么选择 Instant Scanner？",
+      "subtitle": "我们去掉了广告、登录和订阅费。",
+      "f1_title": "100% 隐私安全",
+      "f1_desc": "您的照片直接在浏览器中本地处理。没有服务器，不上传文件，绝无窥探。",
+      "f2_title": "闪电般快速",
+      "f2_desc": "无需下载 App，没有加载屏幕。扫描即下载，一步到位。",
+      "f3_title": "无需安装 App",
+      "f3_desc": "在 Safari 和 Chrome 中完美运行。节省您的手机存储空间。"
+    },
+    "HowTo": {
+      "title": "如何在 iPhone 上扫描？",
+      "step1_title": "点击按钮",
+      "step1_desc": "点击上方的蓝色按钮启动相机。",
+      "step2_title": "拍摄照片",
+      "step2_desc": "拍摄最多 30 张文档照片。",
+      "step3_title": "保存 PDF",
+      "step3_desc": "立即下载合并后的 PDF 文件。"
+    },
+    "Testimonials": {
+      "title": "深受学生和专业人士信赖",
+      "subtitle": "加入成千上万每天都在节省时间的用户。",
+      "wall_of_love": "用户好评"
+    },
+    "FAQ": {
+      "title": "常见问题",
+      "q1": "真的免费吗？",
+      "a1": "是的，永久免费。没有隐藏费用，没有每日限制，没有付费版。",
+      "q2": "我的文件安全吗？",
+      "a2": "绝对安全。我们使用本地浏览器处理技术。文件处理完全在您的设备上进行，从未上传到我们的服务器。",
+      "q3": "会有水印吗？",
+      "a3": "没有。您生成的 PDF 清晰专业，没有任何水印。",
+      "q4": "需要安装 App 吗？",
+      "a4": "不需要。Instant Scanner 直接在您的网络浏览器中运行。",
+      "q5": "支持安卓吗？",
+      "a5": "支持！虽然我们针对 iPhone 进行了优化，但在安卓设备的 Chrome 上也能完美运行。",
+      "q6": "文件保存在哪里？",
+      "a6": "PDF 文件会下载到您设备的默认下载文件夹中（通常是“文件”应用）。"
+    }
+  },
+  "Blog": {
+    "title": "博客文章",
+    "description": "博客文章列表"
+  },
+  "About": {
+    "title": "关于",
+    "description": "关于本站"
+  },
+  "TermsOfService": {
+    "title": "服务条款",
+    "description": "服务条款"
+  },
+  "PrivacyPolicy": {
+    "title": "隐私政策",
+    "description": "隐私政策"
+  }
+}

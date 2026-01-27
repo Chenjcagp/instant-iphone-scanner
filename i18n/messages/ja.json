@@ -1,0 +1,119 @@
+{
+  "LanguageDetection": {
+    "title": "言語の提案",
+    "description": "ブラウザの言語が現在のサイトの言語と異なるようです。いつでも言語を切り替えることができます。",
+    "countdown": "{countdown} 秒後に閉じます",
+    "switchTo": "切り替える"
+  },
+  "Header": {
+    "links": [
+      {
+        "name": "ブログ",
+        "href": "/blog"
+      },
+      {
+        "name": "概要",
+        "href": "/about"
+      }
+    ]
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "プライバシーポリシー",
+    "TermsOfService": "利用規約",
+    "Links": {
+      "groups": [
+        {
+          "title": "言語",
+          "links": [
+            {
+              "href": "/en",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Instant iPhone Scanner",
+    "tagLine": "無料オンラインドキュメントスキャナー",
+    "description": "iPhoneを瞬時にドキュメントスキャナーに変えます。100%無料。100%プライバシー保護。",
+    "Hero": {
+      "title_1": "書類をスキャン。",
+      "title_2": "PDFで保存。",
+      "subtitle": "iPhoneで紙の書類をデジタル化する最速の方法。アプリのダウンロードや登録は不要。100%無料。",
+      "btn_photo": "写真を撮る",
+      "btn_gallery": "アルバムから選択",
+      "btn_download": "PDFをダウンロード",
+      "generating": "PDFを作成中...",
+      "preview": "プレビュー"
+    },
+    "Features": {
+      "title": "Instant Scannerを選ぶ理由",
+      "subtitle": "広告、ログイン、サブスクリプションを排除しました。",
+      "f1_title": "100% プライバシー",
+      "f1_desc": "写真はブラウザ内でローカルに処理されます。サーバーへのアップロードや監視は一切ありません。",
+      "f2_title": "超高速",
+      "f2_desc": "アプリのダウンロード不要。ロード画面なし。スキャンしてダウンロードするだけ。",
+      "f3_title": "アプリ不要",
+      "f3_desc": "SafariやChromeで完璧に動作します。ストレージ容量を節約できます。"
+    },
+    "HowTo": {
+      "title": "iPhoneでスキャンする方法",
+      "step1_title": "ボタンをタップ",
+      "step1_desc": "上の青いボタンをタップしてカメラを起動します。",
+      "step2_title": "写真を撮る",
+      "step2_desc": "最大30枚まで書類を撮影できます。",
+      "step3_title": "PDFを保存",
+      "step3_desc": "結合されたPDFを即座にダウンロードできます。"
+    },
+    "Testimonials": {
+      "title": "学生や専門家から信頼されています",
+      "subtitle": "毎日時間を節約している何千人ものユーザーに参加しましょう。",
+      "wall_of_love": "ユーザーの声"
+    },
+    "FAQ": {
+      "title": "よくある質問",
+      "q1": "本当に無料ですか？",
+      "a1": "はい、永久に100%無料です。隠れた料金や1日の制限はありません。",
+      "q2": "ファイルは安全ですか？",
+      "a2": "絶対に安全です。ローカルブラウザ処理技術を使用しており、ファイルはデバイス上で処理され、サーバーにアップロードされることはありません。",
+      "q3": "透かし（ウォーターマーク）は入りますか？",
+      "a3": "いいえ。生成されるPDFはクリーンでプロフェッショナルな仕上がりです。",
+      "q4": "アプリのインストールは必要ですか？",
+      "a4": "不要です。Instant ScannerはWebブラウザで直接動作します。",
+      "q5": "Androidでも使えますか？",
+      "a5": "はい！iPhone向けに最適化されていますが、AndroidのChromeでも完璧に動作します。",
+      "q6": "ファイルはどこに保存されますか？",
+      "a6": "PDFファイルはデバイスのデフォルトのダウンロードフォルダ（通常は「ファイル」アプリ）に保存されます。"
+    }
+  },
+  "Blog": {
+    "title": "ブログ記事",
+    "description": "ブログ記事一覧"
+  },
+  "About": {
+    "title": "概要",
+    "description": "サイトについて"
+  },
+  "TermsOfService": {
+    "title": "利用規約",
+    "description": "利用規約"
+  },
+  "PrivacyPolicy": {
+    "title": "プライバシーポリシー",
+    "description": "プライバシーポリシー"
+  }
+}

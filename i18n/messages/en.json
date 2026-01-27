@@ -1,0 +1,119 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime.",
+    "countdown": "Closing in {countdown} seconds",
+    "switchTo": "Switch to"
+  },
+  "Header": {
+    "links": [
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "About",
+        "href": "/about"
+      }
+    ]
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/en",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Instant iPhone Scanner",
+    "tagLine": "Free Online Document Scanner",
+    "description": "Turn your iPhone into a document scanner instantly. 100% Free. 100% Private.",
+    "Hero": {
+      "title_1": "Scan Documents.",
+      "title_2": "Save as PDF.",
+      "subtitle": "The fastest way to digitize paper on iPhone. No app download. No registration. 100% Free.",
+      "btn_photo": "Take Photo",
+      "btn_gallery": "Upload from Gallery",
+      "btn_download": "Download PDF",
+      "generating": "Generating PDF...",
+      "preview": "Preview"
+    },
+    "Features": {
+      "title": "Why use Instant Scanner?",
+      "subtitle": "We stripped away the ads, the logins, and the subscriptions.",
+      "f1_title": "100% Private",
+      "f1_desc": "Your photos are processed directly in your browser. No servers. No uploads. No spying.",
+      "f2_title": "Lightning Fast",
+      "f2_desc": "No app download. No loading screens. Just scan and download.",
+      "f3_title": "No App Needed",
+      "f3_desc": "Works perfectly in Safari & Chrome. Save your storage space."
+    },
+    "HowTo": {
+      "title": "How to scan on iPhone?",
+      "step1_title": "Tap Button",
+      "step1_desc": "Click the blue button above to launch camera.",
+      "step2_title": "Take Photos",
+      "step2_desc": "Take up to 30 photos of your documents.",
+      "step3_title": "Save PDF",
+      "step3_desc": "Download the combined PDF instantly."
+    },
+    "Testimonials": {
+      "title": "Trusted by students & professionals",
+      "subtitle": "Join thousands of users who save time every day.",
+      "wall_of_love": "Wall of Love"
+    },
+    "FAQ": {
+      "title": "Frequently Asked Questions",
+      "q1": "Is it really free?",
+      "a1": "Yes, it is 100% free forever. There are no hidden fees.",
+      "q2": "Are my files safe?",
+      "a2": "Absolutely. We use local browser processing technology. Never uploaded to servers.",
+      "q3": "Will there be watermarks?",
+      "a3": "No. Your generated PDFs are clean and professional.",
+      "q4": "Do I need to install an app?",
+      "a4": "No installation required. Works directly in your web browser.",
+      "q5": "Does it work on Android?",
+      "a5": "Yes! It works perfectly on Android devices via Chrome.",
+      "q6": "Where are the files saved?",
+      "a6": "The PDF file is downloaded to your device's default download folder."
+    }
+  },
+  "Blog": {
+    "title": "Blog Posts",
+    "description": "A list of blog posts"
+  },
+  "About": {
+    "title": "About",
+    "description": "About the site"
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}
