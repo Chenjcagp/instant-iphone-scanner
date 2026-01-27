@@ -1,6 +1,6 @@
 import { SiteConfig } from "@/types/siteConfig";
 
-export const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://your-domain.com";
+export const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://scanoniphone.com";
 
 // 这是一个空链接，防止模板报错，但不会再被使用了
 export const SOURCE_CODE_URL = "#";
