@@ -22,6 +22,7 @@ import {
 } from "next-intl/server";
 import { ThemeProvider } from "next-themes";
 import { notFound } from "next/navigation";
+//引入vercel统计
 
 type MetadataProps = {
   params: Promise<{ locale: string }>;
