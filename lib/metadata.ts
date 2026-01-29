@@ -43,7 +43,7 @@ export async function constructMetadata({
       alt: pageTitle,
     }))
     : [{
-      url: `${siteConfig.url}/og.png`,
+      url: `${siteConfig.url}/opengraph-image.png`,
       alt: pageTitle,
     }]
 
