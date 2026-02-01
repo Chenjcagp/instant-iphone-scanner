@@ -6,6 +6,7 @@ import { Link as I18nLink } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
+
 const Header = () => {
   const t = useTranslations("Home");
 
